@@ -1,0 +1,16 @@
+.heading{
+    text-align: center;
+}
+.btn{
+    background-color: #d31c92;
+    color:white;
+    border: 1px #d31c92 solid;
+    border-radius: 5px;
+    padding: 5px;
+    margin-left: 35%;
+}
+#coin_image{
+    width : 200px;
+    margin-left: 30%;
+    
+}

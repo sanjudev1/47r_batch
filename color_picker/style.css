@@ -1,0 +1,14 @@
+.heading{
+    text-align: center;
+    color: orangered;
+}
+.btn_container{
+    margin-left: 35%;
+    margin-top: 10%;
+}
+.btn{
+    padding:1px 6px;
+    border-radius: 5px;
+    border: solid 1.2px black;
+
+}
