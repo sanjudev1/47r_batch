@@ -1,0 +1,9 @@
+#cell_container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.person{
+    padding: 5px;
+    border-radius: 50%;
+}

@@ -1,0 +1,12 @@
+#sentence{
+    margin-top: 10%;
+    font-size: x-large;
+}
+html,body{
+    background-color: #211d24;
+    color:#9c93a3
+    
+}
+#user_input{
+    width:0%
+}
